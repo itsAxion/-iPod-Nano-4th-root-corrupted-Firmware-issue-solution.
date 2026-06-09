@@ -1,6 +1,8 @@
 # How to Repair a Corrupted Root Directory on an iPod Nano 4th Gen (8GB)
 
-<img width="1648" height="3204" alt="Ipod_nano_4th" src="https://github.com/user-attachments/assets/154a7ff8-f4b9-44d4-adb5-2d5280f5706c" />
+<div align="center">
+  <img width="350" alt="Ipod_nano_4th" src="https://github.com/user-attachments/assets/978aa1f7-6ce2-44b3-a5d8-7ad9d789bc6f" />
+</div>
 
 ## Issue Description
 When the iPod is plugged into a PC and you try to check the root directory to see your music, images, videos, or podcasts, nothing appears in the file manager. 
