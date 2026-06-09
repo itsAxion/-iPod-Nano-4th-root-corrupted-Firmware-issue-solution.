@@ -46,12 +46,5 @@ The restoration process will begin. Once finished, your iPod's system will be fu
 > ⚠️ **Disclaimer:** This is the method that worked for my specific case. I am not responsible if this process does not work for your device or if your iPod gets damaged during the procedure.
 
 ## Sources & Downloads
-If you have the exact same 8GB model and want to skip searching, I have uploaded a ZIP file containing the exact firmware version I used to the repository files above.
-
----
-
-### How to extract the firmware:
-Since GitHub limits web uploads to 25MB, the firmware is split into three parts (`.z01`, `.z02`, and `.zip`). 
-1. Download all three files into the same folder.
-2. **On Windows/Mac:** Open the file ending strictly in `.zip` using 7-Zip, WinRAR, or your default extractor, and extract it normally. It will automatically read the other parts.
-3. **On Linux:** Run `unzip firmware_split.zip` in your terminal.
+1. **iTunes:** <https://support.apple.com/en-us/106372>.
+2. **Firmware 1.0.4:** <https://appledb.dev/device/iPod-nano-(4th-generation).html>. 
